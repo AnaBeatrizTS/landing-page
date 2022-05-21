@@ -1,5 +1,5 @@
 # landing-page
-Landing page baseada no tutorial postado pela Rafa Ballerini.
+Landing page baseada no tutorial postado pela Rafaella Ballerini.
 Com o propósito de treinar as habilidades do html e css.
 A landing page foi criada com intuito de divulgar minhas redes sociais e meu trabalho como frontend.
 
